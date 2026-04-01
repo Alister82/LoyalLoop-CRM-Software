@@ -136,12 +136,3 @@ Contributions are what make the open-source community such an amazing place to l
 
 ---
 
-## 🛡️ License
-
-Distributed under the **MIT License**. You are free to use, modify, and distribute this software.
-
----
-
-<div align="center">
-  <p>Built with ❤️ for modern retailers.</p>
-</div>
