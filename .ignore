@@ -1,0 +1,51 @@
+# IDEs, Editors, and OS Files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+ehthumbs.db
+.Spotlight-V100
+.Trashes
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Dependency directories
+vendor/
+node_modules/
+bower_components/
+
+# Dynamic Data & User Uploads
+uploads/
+images/uploads/
+storage/logs/
+*.sqlite
+*.sqlite3
+
+# Build directories
+dist/
+build/
+public/build/
+
+# Testing
+coverage/
+phpunit.xml
+.phpunit.result.cache
+
+# Docker
+docker-compose.override.yml
+.docker/
